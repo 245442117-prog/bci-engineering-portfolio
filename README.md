@@ -11,9 +11,9 @@ Welcome! This is my engineering portfolio, focused on neural signals, tactile se
 | Project | Focus | Status |
 | --- | --- | --- |
 | [Touch-EEG Benchmarks](projects/touch-eeg-benchmarks.md) | EEGNet, classical baselines, cross-subject evaluation | Research summary online; code review underway |
-| [Six-Axis Force Signal Toolkit](projects/six-axis-force-toolkit.md) | Force and torque features, signal quality, spectral analysis | Release preparation |
-| [EEG Computational Modeling](projects/eeg-computational-model.md) | ERP/P300, model validation, scientific visualization | Release preparation |
-| [Event Gateway Engineering](projects/event-gateway-engineering.md) | Multi-source events, logging, recovery | Release preparation |
+| Six-Axis Force Signal Toolkit | Force and torque features, signal quality, spectral analysis | Release preparation |
+| EEG Computational Modeling | ERP/P300, model validation, scientific visualization | Release preparation |
+| Event Gateway Engineering | Multi-source events, logging, recovery | Release preparation |
 
 ## Technical directions
 
